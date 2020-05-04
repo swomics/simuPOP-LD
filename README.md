@@ -1,6 +1,6 @@
 # simuPOP-LD
 
-This code is not designed to be re-usable. It is shown here for methodological transparency.
+This code is not supposed to be usable. It is uploaded for methods transparency.
 
 ## In brief:
 
